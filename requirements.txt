@@ -1,0 +1,4 @@
+streamlit
+datasets
+scikit-learn
+pandas
